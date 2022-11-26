@@ -89,3 +89,10 @@ INSERT INTO tracks_list VALUES
 (14, 4),
 (15, 4);
 
+INSERT INTO artists_genres VALUES
+(5, 3);
+
+INSERT INTO tracks (album_id, name, duration) VALUES
+(4, 'Forest', 240),
+(8, 'RESET', 154),
+(8, 'На щите', 207);
